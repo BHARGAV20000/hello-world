@@ -10,6 +10,8 @@ namespace Hello_world
     {
         static void Main(string[] args)
         {
+            console.writeline("Hello World")
+                // first comment
         }
     }
 }
